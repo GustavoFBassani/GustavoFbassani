@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-🎓 I'm a software development student focused on the Swift programming language, used to create amazing apps for the Apple ecosystem, including iOS, macOS, watchOS, and tvOS.
+🎓  
+I'm a software development student focused on the Swift programming language, used to create amazing apps for the Apple ecosystem, including iOS, macOS, watchOS, and tvOS.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="50" style="vertical-align: middle; margin-right: 10px;"> Estou atualmente aprendendo os fundamentos do Swift, incluindo conceitos como controle de fluxo, manipulação de coleções, programação orientada a objetos e SwiftUI para construir interfaces de usuário elegantes e responsivas.
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="60" style="margin-bottom: 10px;">
 
-🔭 I'm working on projects to practice my skills, such as small apps that solve everyday problems and explore the possibilities of mobile development.
+I'm currently learning the fundamentals of Swift, including concepts like control flow, collection handling, object-oriented programming, and SwiftUI for building elegant and responsive user interfaces.
+
+🔭  
+I'm working on projects to practice my skills, such as small apps that solve everyday problems and explore the possibilities of mobile development.
 
 <!--
 **GustavoFBassani/GustavoFbassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

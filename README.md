@@ -1,26 +1,24 @@
-## Hi there 👋
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=180&section=header&text=Gustavo%20Bassani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%20iOS%20Software%20Engineer&descAlignY=58&descSize=16&descColor=ffddcc" /> 
+</div>
 
-🎓  
-I'm a software development student focused on the Swift programming language, used to create amazing apps for the Apple ecosystem, including iOS, macOS, watchOS, and tvOS.
+<div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="60" style="margin-bottom: 10px;">
+Building high-performance native applications using Swift, SwiftUI, UIKit, and modern Apple frameworks.
 
-I'm currently learning the fundamentals of Swift, including concepts like control flow, collection handling, object-oriented programming, and SwiftUI for building elegant and responsive user interfaces.
+Bachelor’s degree in Mathematics (UFRGS)  
+Currently pursuing a degree in Internet Systems (IFRS)
 
-🔭  
-I'm working on projects to practice my skills, such as small apps that solve everyday problems and explore the possibilities of mobile development.
+<br>
 
-<!--
-**GustavoFBassani/GustavoFbassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://gustavofbassani.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/gustavofbassani/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
